@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-08T13:56:56 IST" name="Suite" finished-at="2024-03-08T13:57:24 IST" duration-ms="27909">
+    <groups>
+    </groups>
+    <test started-at="2024-03-08T13:56:56 IST" name="Test" finished-at="2024-03-08T13:57:24 IST" duration-ms="27909">
+      <class name="pageObjectMainCalss.SampleMain">
+        <test-method is-config="true" signature="open_browser()[pri:0, instance:pageObjectMainCalss.SampleMain@19bb07ed]" started-at="2024-03-08T13:56:56 IST" name="open_browser" finished-at="2024-03-08T13:56:58 IST" duration-ms="2226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method signature="main_method()[pri:1, instance:pageObjectMainCalss.SampleMain@19bb07ed]" started-at="2024-03-08T13:56:58 IST" name="main_method" finished-at="2024-03-08T13:57:10 IST" duration-ms="11722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main_method -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:pageObjectMainCalss.SampleMain@19bb07ed]" started-at="2024-03-08T13:57:10 IST" name="teardown" finished-at="2024-03-08T13:57:10 IST" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="open_browser()[pri:0, instance:pageObjectMainCalss.SampleMain@19bb07ed]" started-at="2024-03-08T13:57:10 IST" name="open_browser" finished-at="2024-03-08T13:57:11 IST" duration-ms="1605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method signature="main_method2()[pri:2, instance:pageObjectMainCalss.SampleMain@19bb07ed]" started-at="2024-03-08T13:57:11 IST" name="main_method2" finished-at="2024-03-08T13:57:23 IST" duration-ms="12057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main_method2 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:pageObjectMainCalss.SampleMain@19bb07ed]" started-at="2024-03-08T13:57:23 IST" name="teardown" finished-at="2024-03-08T13:57:24 IST" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- pageObjectMainCalss.SampleMain -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
